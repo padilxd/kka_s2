@@ -3,6 +3,8 @@ dan
 Ahmad Adly Maulana 02
 tugas kelompok [KELOMPOK](./kelompok.py)
 
+Hasil Praktikum 1-6 [OUTPUT](./output_latihan)
+
 Tugas Analisis 1:
 • Apa yang terjadi jika kamu mengubah hero1.hp menjadi 500 setelah baris
 hero1 = Hero...? Coba lakukan print(hero1.hp).
