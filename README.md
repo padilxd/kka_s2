@@ -1,4 +1,7 @@
-
+Fadhil Hilmi M.P 11
+dan 
+Ahmad Adly Maulana 02
+tugas kelompok [KELOMPOK](./kelompok.py)
 
 Tugas Analisis 1:
 • Apa yang terjadi jika kamu mengubah hero1.hp menjadi 500 setelah baris
