@@ -1,3 +1,5 @@
+
+
 Tugas Analisis 1:
 • Apa yang terjadi jika kamu mengubah hero1.hp menjadi 500 setelah baris
 hero1 = Hero...? Coba lakukan print(hero1.hp).
