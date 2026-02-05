@@ -4,7 +4,7 @@ Ahmad Adly Maulana 02
 tugas kelompok [KELOMPOK](./kelompok.py)
 
 
-Hasil Praktikum 1-6 [OUTPUT](./output_latihan)
+Hasil Praktikum 1-6 [OUTPUT](./output latihan)
 
 
 Tugas Analisis 1:
