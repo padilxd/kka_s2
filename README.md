@@ -3,6 +3,7 @@ dan
 Ahmad Adly Maulana 02
 tugas kelompok [KELOMPOK](./kelompok.py)
 
+file codingan  [OUTPUT](./game_rpg.py)
 
 Hasil Praktikum 1-6 [OUTPUT](./output%20latihan)
 
