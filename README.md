@@ -6,6 +6,8 @@ tugas kelompok [KELOMPOK](./kelompok.py)
 
 Hasil Praktikum 1-6 [OUTPUT](./output%20latihan)
 
+Hasil Analisis 1-6 [OUTPUT](./output%20analisis)
+
 
 Tugas Analisis 1:
 • Apa yang terjadi jika kamu mengubah hero1.hp menjadi 500 setelah baris
