@@ -9,6 +9,8 @@ Hasil Praktikum 1-6 [OUTPUT](./output%20latihan)
 Hasil Analisis 1-6 [OUTPUT](./output%20analisis)
 
 
+Soal dan Jawaban Analisis (pembahasan dibawah)
+
 Tugas Analisis 1:
 • Apa yang terjadi jika kamu mengubah hero1.hp menjadi 500 setelah baris
 hero1 = Hero...? Coba lakukan print(hero1.hp).
