@@ -4,7 +4,7 @@ Ahmad Adly Maulana 02
 tugas kelompok [KELOMPOK](./kelompok.py)
 
 
-Hasil Praktikum 1-6 [OUTPUT](./https://github.com/padilxd/kka_s2/tree/main/output%20latihan)
+Hasil Praktikum 1-6 [OUTPUT](./outputlatihan)
 
 
 Tugas Analisis 1:
