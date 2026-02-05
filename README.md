@@ -8,6 +8,19 @@ Tugas Analisis 2:
 menerima sebuah objek utuh, bukan hanya string nama. Mengapa ini
 penting?
 JAWAB
+
+Tugas Analisis 3:
+• Eksperimen Fungsi super(): Pada class Mage, coba hapus (atau jadikan
+komentar #) baris kode super().__init__(name, hp, attack_power). Kemudian
+jalankan programnya.
+• Pertanyaan: Error apa yang muncul saat kamu mencoba melihat info Eudora
+(eudora.info())? Mengapa error tersebut mengatakan Mage object has no
+attribute 'name', padahal kita sudah mengirim nama "Eudora" saat
+pembuatan objek?
+• Jelaskan peran fungsi super() dalam menghubungkan data dari class Anak ke
+class Induk!
+JAWAB
+
 Tugas Analisis 4:
 1. Percobaan Hacking: Coba tambahkan baris kode berikut di bagian paling
 bawah (luar class):
@@ -22,6 +35,7 @@ Pertanyaan: Kemudian lakukan hero1.set_hp(-100).
 Apa yang terjadi pada data HP Hero? Jelaskan mengapa keberadaan method
 Setter sangat penting untuk menjaga integritas data dalam game!
 JAWAB
+
 Tugas Analisis 5:
 1. Melanggar Kontrak: Pada class Hero, hapus (atau jadikan komentar #) seluruh
 blok method def serang(self, target):. Jalankan programnya.
@@ -34,6 +48,7 @@ Interface?
 Pertanyaan: Mengapa class GameUnit dilarang untuk dibuat menjadi objek?
 Apa gunanya ada class GameUnit jika tidak bisa dibuat menjadi objek nyata?
 JAWAB
+
 Tugas Analisis 6:
 1. Uji Skalabilitas (Kemudahan Menambah Fitur): Tanpa mengubah satu huruf
 pun pada kode Looping (for pahlawan in pasukan:), buatlah satu class
