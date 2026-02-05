@@ -114,7 +114,9 @@ menjadi tembak_panah. Jalankan program.
 Pertanyaan: Apa yang terjadi?
 Mengapa dalam konsep Polimorfisme, nama method antara Parent Class dan
 berbagai Child Class harus persis sama?
+
 JAWAB
+
 1. Uji Skalabilitas
 a. Apakah program berjalan?
 Ya, berjalan lancar
